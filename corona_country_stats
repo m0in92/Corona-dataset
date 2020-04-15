@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This script finds the total corona cases and deaths stat from every country from worldometers.info website. 
+This python script finds the total corona cases and deaths stat from every country from worldometers.info website. 
 It then appends these stats to a data_csv csv file.
 
 Created on Tue Apr 14 22:55:56 2020
